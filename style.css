@@ -1,0 +1,132 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    background:#F8F9FA;
+
+    font-family:Poppins,sans-serif;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    min-height:100vh;
+
+    padding:20px;
+
+}
+
+.container{
+
+    width:100%;
+    max-width:700px;
+
+    text-align:center;
+
+}
+
+.logo{
+
+    width:180px;
+
+    margin-bottom:30px;
+
+}
+
+h1{
+
+    margin-bottom:25px;
+
+    font-size:2rem;
+
+    color:#222;
+
+}
+
+.card{
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:40px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.08);
+
+}
+
+.texto{
+
+    font-family:"Merriweather",serif;
+
+    font-size:1.45rem;
+
+    line-height:1.8;
+
+    color:#333;
+
+}
+
+.referencia{
+
+    margin-top:30px;
+
+    font-size:1.1rem;
+
+    font-weight:600;
+
+    color:#2E7D32;
+
+}
+
+.buttons{
+
+    margin-top:30px;
+
+    display:flex;
+
+    gap:20px;
+
+    justify-content:center;
+
+    flex-wrap:wrap;
+
+}
+
+button{
+
+    background:#2E7D32;
+
+    color:white;
+
+    border:none;
+
+    border-radius:10px;
+
+    padding:15px 28px;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+button:hover{
+
+    background:#256628;
+
+}
+
+#loading{
+
+    color:#777;
+
+}

@@ -1,0 +1,2908 @@
+[
+  {
+    "id": 1,
+    "tema": "Confiança",
+    "livro": "Provérbios",
+    "capitulo": 3,
+    "versiculos": "5-6",
+    "tags": ["confiança", "fé", "direção"]
+  },
+  {
+    "id": 2,
+    "tema": "Esperança",
+    "livro": "Jeremias",
+    "capitulo": 29,
+    "versiculos": "11",
+    "tags": ["esperança", "promessas", "futuro"]
+  },
+  {
+    "id": 3,
+    "tema": "Paz",
+    "livro": "Filipenses",
+    "capitulo": 4,
+    "versiculos": "6-7",
+    "tags": ["oração", "paz", "ansiedade"]
+  },
+  {
+    "id": 4,
+    "tema": "Fé",
+    "livro": "Hebreus",
+    "capitulo": 11,
+    "versiculos": "1",
+    "tags": ["fé", "esperança", "confiança"]
+  },
+  {
+    "id": 5,
+    "tema": "Amor",
+    "livro": "João",
+    "capitulo": 3,
+    "versiculos": "16",
+    "tags": ["amor", "salvação", "Jesus"]
+  },
+  {
+    "id": 6,
+    "tema": "Sabedoria",
+    "livro": "Tiago",
+    "capitulo": 1,
+    "versiculos": "5",
+    "tags": ["sabedoria", "oração", "Deus"]
+  },
+  {
+    "id": 7,
+    "tema": "Coragem",
+    "livro": "Josué",
+    "capitulo": 1,
+    "versiculos": "9",
+    "tags": ["coragem", "força", "presença de Deus"]
+  },
+  {
+    "id": 8,
+    "tema": "Palavra de Deus",
+    "livro": "Salmos",
+    "capitulo": 119,
+    "versiculos": "105",
+    "tags": ["palavra", "direção", "luz"]
+  },
+  {
+    "id": 9,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 37,
+    "versiculos": "5",
+    "tags": ["confiança", "entrega", "fé"]
+  },
+  {
+    "id": 10,
+    "tema": "Esperança",
+    "livro": "Isaías",
+    "capitulo": 40,
+    "versiculos": "31",
+    "tags": ["esperança", "força", "perseverança"]
+  },
+  {
+    "id": 11,
+    "tema": "Oração",
+    "livro": "1 Tessalonicenses",
+    "capitulo": 5,
+    "versiculos": "17",
+    "tags": ["oração", "vida cristã"]
+  },
+  {
+    "id": 12,
+    "tema": "Gratidão",
+    "livro": "1 Tessalonicenses",
+    "capitulo": 5,
+    "versiculos": "18",
+    "tags": ["gratidão", "vontade de Deus"]
+  },
+  {
+    "id": 13,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 46,
+    "versiculos": "1",
+    "tags": ["refúgio", "socorro", "confiança"]
+  },
+  {
+    "id": 14,
+    "tema": "Amor",
+    "livro": "1 Coríntios",
+    "capitulo": 13,
+    "versiculos": "4-7",
+    "tags": ["amor", "relacionamentos", "caráter"]
+  },
+  {
+    "id": 15,
+    "tema": "Vida Cristã",
+    "livro": "Mateus",
+    "capitulo": 5,
+    "versiculos": "16",
+    "tags": ["testemunho", "boas obras", "luz"]
+  },
+  {
+    "id": 16,
+    "tema": "Oração",
+    "livro": "Mateus",
+    "capitulo": 7,
+    "versiculos": "7",
+    "tags": ["oração", "perseverança", "fé"]
+  },
+  {
+    "id": 17,
+    "tema": "Salvação",
+    "livro": "Romanos",
+    "capitulo": 10,
+    "versiculos": "9",
+    "tags": ["salvação", "Jesus", "fé"]
+  },
+  {
+    "id": 18,
+    "tema": "Perdão",
+    "livro": "1 João",
+    "capitulo": 1,
+    "versiculos": "9",
+    "tags": ["perdão", "confissão", "graça"]
+  },
+  {
+    "id": 19,
+    "tema": "Humildade",
+    "livro": "Filipenses",
+    "capitulo": 2,
+    "versiculos": "3",
+    "tags": ["humildade", "amor", "serviço"]
+  },
+  {
+    "id": 20,
+    "tema": "Alegria",
+    "livro": "Neemias",
+    "capitulo": 8,
+    "versiculos": "10",
+    "tags": ["alegria", "força", "Deus"]
+  },
+  {
+    "id": 21,
+    "tema": "Serviço",
+    "livro": "Marcos",
+    "capitulo": 10,
+    "versiculos": "45",
+    "tags": ["serviço", "Jesus", "exemplo"]
+  },
+  {
+    "id": 22,
+    "tema": "Esperança",
+    "livro": "Romanos",
+    "capitulo": 8,
+    "versiculos": "28",
+    "tags": ["esperança", "propósito", "confiança"]
+  },
+  {
+    "id": 23,
+    "tema": "Fé",
+    "livro": "Marcos",
+    "capitulo": 9,
+    "versiculos": "23",
+    "tags": ["fé", "milagres", "Jesus"]
+  },
+  {
+    "id": 24,
+    "tema": "Perseverança",
+    "livro": "Gálatas",
+    "capitulo": 6,
+    "versiculos": "9",
+    "tags": ["perseverança", "ânimo", "colheita"]
+  },
+  {
+    "id": 25,
+    "tema": "Paz",
+    "livro": "João",
+    "capitulo": 14,
+    "versiculos": "27",
+    "tags": ["paz", "Jesus", "coração"]
+  },{
+    "id": 26,
+    "tema": "Confiança",
+    "livro": "Isaías",
+    "capitulo": 26,
+    "versiculos": "3-4",
+    "tags": ["confiança", "paz", "fé"]
+  },
+  {
+    "id": 27,
+    "tema": "Esperança",
+    "livro": "Romanos",
+    "capitulo": 15,
+    "versiculos": "13",
+    "tags": ["esperança", "alegria", "Espírito Santo"]
+  },
+  {
+    "id": 28,
+    "tema": "Oração",
+    "livro": "Jeremias",
+    "capitulo": 33,
+    "versiculos": "3",
+    "tags": ["oração", "resposta", "Deus"]
+  },
+  {
+    "id": 29,
+    "tema": "Fé",
+    "livro": "Hebreus",
+    "capitulo": 10,
+    "versiculos": "23",
+    "tags": ["fé", "esperança", "promessas"]
+  },
+  {
+    "id": 30,
+    "tema": "Perseverança",
+    "livro": "Tiago",
+    "capitulo": 1,
+    "versiculos": "12",
+    "tags": ["perseverança", "provação", "recompensa"]
+  },
+  {
+    "id": 31,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 16,
+    "versiculos": "3",
+    "tags": ["sabedoria", "planejamento", "Deus"]
+  },
+  {
+    "id": 32,
+    "tema": "Palavra de Deus",
+    "livro": "Josué",
+    "capitulo": 1,
+    "versiculos": "8",
+    "tags": ["palavra", "meditação", "obediência"]
+  },
+  {
+    "id": 33,
+    "tema": "Vida Cristã",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "2",
+    "tags": ["transformação", "vida cristã", "vontade de Deus"]
+  },
+  {
+    "id": 34,
+    "tema": "Humildade",
+    "livro": "Tiago",
+    "capitulo": 4,
+    "versiculos": "10",
+    "tags": ["humildade", "Deus", "exaltação"]
+  },
+  {
+    "id": 35,
+    "tema": "Perdão",
+    "livro": "Efésios",
+    "capitulo": 4,
+    "versiculos": "32",
+    "tags": ["perdão", "bondade", "amor"]
+  },
+  {
+    "id": 36,
+    "tema": "Amor",
+    "livro": "1 João",
+    "capitulo": 4,
+    "versiculos": "19",
+    "tags": ["amor", "Deus", "graça"]
+  },
+  {
+    "id": 37,
+    "tema": "Serviço",
+    "livro": "Gálatas",
+    "capitulo": 5,
+    "versiculos": "13",
+    "tags": ["serviço", "amor", "liberdade"]
+  },
+  {
+    "id": 38,
+    "tema": "Família",
+    "livro": "Provérbios",
+    "capitulo": 22,
+    "versiculos": "6",
+    "tags": ["família", "filhos", "ensino"]
+  },
+  {
+    "id": 39,
+    "tema": "Coragem",
+    "livro": "Deuteronômio",
+    "capitulo": 31,
+    "versiculos": "6",
+    "tags": ["coragem", "presença de Deus", "força"]
+  },
+  {
+    "id": 40,
+    "tema": "Paz",
+    "livro": "Colossenses",
+    "capitulo": 3,
+    "versiculos": "15",
+    "tags": ["paz", "gratidão", "vida cristã"]
+  },
+  {
+    "id": 41,
+    "tema": "Obediência",
+    "livro": "João",
+    "capitulo": 14,
+    "versiculos": "15",
+    "tags": ["obediência", "amor", "Jesus"]
+  },
+  {
+    "id": 42,
+    "tema": "Espírito Santo",
+    "livro": "Gálatas",
+    "capitulo": 5,
+    "versiculos": "22-23",
+    "tags": ["Espírito Santo", "fruto", "caráter"]
+  },
+  {
+    "id": 43,
+    "tema": "Salvação",
+    "livro": "Atos",
+    "capitulo": 4,
+    "versiculos": "12",
+    "tags": ["salvação", "Jesus", "evangelho"]
+  },
+  {
+    "id": 44,
+    "tema": "Graça",
+    "livro": "Efésios",
+    "capitulo": 2,
+    "versiculos": "8-9",
+    "tags": ["graça", "salvação", "fé"]
+  },
+  {
+    "id": 45,
+    "tema": "Misericórdia",
+    "livro": "Lamentações",
+    "capitulo": 3,
+    "versiculos": "22-23",
+    "tags": ["misericórdia", "fidelidade", "esperança"]
+  },
+  {
+    "id": 46,
+    "tema": "Justiça",
+    "livro": "Miqueias",
+    "capitulo": 6,
+    "versiculos": "8",
+    "tags": ["justiça", "humildade", "obediência"]
+  },
+  {
+    "id": 47,
+    "tema": "Evangelização",
+    "livro": "Mateus",
+    "capitulo": 28,
+    "versiculos": "19-20",
+    "tags": ["evangelização", "missões", "discipulado"]
+  },
+  {
+    "id": 48,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 150,
+    "versiculos": "6",
+    "tags": ["louvor", "adoração"]
+  },
+  {
+    "id": 49,
+    "tema": "Fidelidade",
+    "livro": "Provérbios",
+    "capitulo": 28,
+    "versiculos": "20",
+    "tags": ["fidelidade", "integridade", "bênção"]
+  },
+  {
+    "id": 50,
+    "tema": "Vida Cristã",
+    "livro": "Colossenses",
+    "capitulo": 3,
+    "versiculos": "23",
+    "tags": ["trabalho", "serviço", "vida cristã"]
+  },{
+    "id": 51,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 125,
+    "versiculos": "1",
+    "tags": ["confiança", "segurança", "fé"]
+  },
+  {
+    "id": 52,
+    "tema": "Esperança",
+    "livro": "Isaías",
+    "capitulo": 41,
+    "versiculos": "10",
+    "tags": ["esperança", "coragem", "presença de Deus"]
+  },
+  {
+    "id": 53,
+    "tema": "Coragem",
+    "livro": "Salmos",
+    "capitulo": 27,
+    "versiculos": "1",
+    "tags": ["coragem", "confiança", "proteção"]
+  },
+  {
+    "id": 54,
+    "tema": "Oração",
+    "livro": "Salmos",
+    "capitulo": 34,
+    "versiculos": "17",
+    "tags": ["oração", "socorro", "Deus"]
+  },
+  {
+    "id": 55,
+    "tema": "Oração",
+    "livro": "1 João",
+    "capitulo": 5,
+    "versiculos": "14",
+    "tags": ["oração", "confiança", "vontade de Deus"]
+  },
+  {
+    "id": 56,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 4,
+    "versiculos": "23",
+    "tags": ["sabedoria", "coração", "vida"]
+  },
+  {
+    "id": 57,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 15,
+    "versiculos": "1",
+    "tags": ["sabedoria", "mansidão", "palavras"]
+  },
+  {
+    "id": 58,
+    "tema": "Amor",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "10",
+    "tags": ["amor", "irmandade", "honra"]
+  },
+  {
+    "id": 59,
+    "tema": "Humildade",
+    "livro": "1 Pedro",
+    "capitulo": 5,
+    "versiculos": "6",
+    "tags": ["humildade", "Deus", "exaltação"]
+  },
+  {
+    "id": 60,
+    "tema": "Perdão",
+    "livro": "Mateus",
+    "capitulo": 6,
+    "versiculos": "14",
+    "tags": ["perdão", "oração", "relacionamentos"]
+  },
+  {
+    "id": 61,
+    "tema": "Vida Cristã",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "21",
+    "tags": ["vida cristã", "bondade", "amor"]
+  },
+  {
+    "id": 62,
+    "tema": "Bondade",
+    "livro": "Lucas",
+    "capitulo": 6,
+    "versiculos": "31",
+    "tags": ["bondade", "amor", "próximo"]
+  },
+  {
+    "id": 63,
+    "tema": "Serviço",
+    "livro": "Filipenses",
+    "capitulo": 2,
+    "versiculos": "4",
+    "tags": ["serviço", "amor", "próximo"]
+  },
+  {
+    "id": 64,
+    "tema": "Perseverança",
+    "livro": "Hebreus",
+    "capitulo": 12,
+    "versiculos": "1",
+    "tags": ["perseverança", "fé", "corrida"]
+  },
+  {
+    "id": 65,
+    "tema": "Esperança",
+    "livro": "Salmos",
+    "capitulo": 42,
+    "versiculos": "11",
+    "tags": ["esperança", "alma", "Deus"]
+  },
+  {
+    "id": 66,
+    "tema": "Salvação",
+    "livro": "João",
+    "capitulo": 14,
+    "versiculos": "6",
+    "tags": ["salvação", "Jesus", "verdade"]
+  },
+  {
+    "id": 67,
+    "tema": "Espírito Santo",
+    "livro": "Romanos",
+    "capitulo": 8,
+    "versiculos": "14",
+    "tags": ["Espírito Santo", "filhos de Deus"]
+  },
+  {
+    "id": 68,
+    "tema": "Palavra de Deus",
+    "livro": "2 Timóteo",
+    "capitulo": 3,
+    "versiculos": "16",
+    "tags": ["palavra", "ensino", "inspiração"]
+  },
+  {
+    "id": 69,
+    "tema": "Fé",
+    "livro": "Romanos",
+    "capitulo": 10,
+    "versiculos": "17",
+    "tags": ["fé", "palavra", "ouvir"]
+  },
+  {
+    "id": 70,
+    "tema": "Justiça",
+    "livro": "Provérbios",
+    "capitulo": 21,
+    "versiculos": "3",
+    "tags": ["justiça", "obediência", "Deus"]
+  },
+  {
+    "id": 71,
+    "tema": "Graça",
+    "livro": "2 Coríntios",
+    "capitulo": 12,
+    "versiculos": "9",
+    "tags": ["graça", "força", "fraqueza"]
+  },
+  {
+    "id": 72,
+    "tema": "Gratidão",
+    "livro": "Colossenses",
+    "capitulo": 3,
+    "versiculos": "17",
+    "tags": ["gratidão", "louvor", "Jesus"]
+  },
+  {
+    "id": 73,
+    "tema": "Fidelidade",
+    "livro": "2 Timóteo",
+    "capitulo": 2,
+    "versiculos": "13",
+    "tags": ["fidelidade", "Deus", "promessas"]
+  },
+  {
+    "id": 74,
+    "tema": "Família",
+    "livro": "Efésios",
+    "capitulo": 6,
+    "versiculos": "2-3",
+    "tags": ["família", "honra", "pais"]
+  },
+  {
+    "id": 75,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 100,
+    "versiculos": "2",
+    "tags": ["louvor", "alegria", "adoração"]
+  },{
+    "id": 76,
+    "tema": "Confiança",
+    "livro": "Naum",
+    "capitulo": 1,
+    "versiculos": "7",
+    "tags": ["confiança", "proteção", "bondade"]
+  },
+  {
+    "id": 77,
+    "tema": "Esperança",
+    "livro": "Lamentações",
+    "capitulo": 3,
+    "versiculos": "25",
+    "tags": ["esperança", "esperar", "Deus"]
+  },
+  {
+    "id": 78,
+    "tema": "Coragem",
+    "livro": "1 Crônicas",
+    "capitulo": 28,
+    "versiculos": "20",
+    "tags": ["coragem", "obra", "presença de Deus"]
+  },
+  {
+    "id": 79,
+    "tema": "Sabedoria",
+    "livro": "Eclesiastes",
+    "capitulo": 3,
+    "versiculos": "1",
+    "tags": ["sabedoria", "tempo", "propósito"]
+  },
+  {
+    "id": 80,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 11,
+    "versiculos": "25",
+    "tags": ["generosidade", "sabedoria", "prosperidade"]
+  },
+  {
+    "id": 81,
+    "tema": "Vida Cristã",
+    "livro": "Mateus",
+    "capitulo": 5,
+    "versiculos": "9",
+    "tags": ["paz", "vida cristã", "bem-aventurança"]
+  },
+  {
+    "id": 82,
+    "tema": "Perseverança",
+    "livro": "Romanos",
+    "capitulo": 5,
+    "versiculos": "3-4",
+    "tags": ["perseverança", "esperança", "tribulação"]
+  },
+  {
+    "id": 83,
+    "tema": "Fé",
+    "livro": "Salmos",
+    "capitulo": 56,
+    "versiculos": "3",
+    "tags": ["fé", "confiança", "medo"]
+  },
+  {
+    "id": 84,
+    "tema": "Amor",
+    "livro": "João",
+    "capitulo": 15,
+    "versiculos": "12",
+    "tags": ["amor", "Jesus", "mandamento"]
+  },
+  {
+    "id": 85,
+    "tema": "Perdão",
+    "livro": "Colossenses",
+    "capitulo": 3,
+    "versiculos": "13",
+    "tags": ["perdão", "amor", "relacionamentos"]
+  },
+  {
+    "id": 86,
+    "tema": "Serviço",
+    "livro": "1 Pedro",
+    "capitulo": 4,
+    "versiculos": "10",
+    "tags": ["serviço", "dons", "igreja"]
+  },
+  {
+    "id": 87,
+    "tema": "Humildade",
+    "livro": "Provérbios",
+    "capitulo": 22,
+    "versiculos": "4",
+    "tags": ["humildade", "temor do Senhor", "riquezas"]
+  },
+  {
+    "id": 88,
+    "tema": "Palavra de Deus",
+    "livro": "Hebreus",
+    "capitulo": 4,
+    "versiculos": "12",
+    "tags": ["palavra", "verdade", "discernimento"]
+  },
+  {
+    "id": 89,
+    "tema": "Espírito Santo",
+    "livro": "João",
+    "capitulo": 14,
+    "versiculos": "26",
+    "tags": ["Espírito Santo", "ensino", "consolo"]
+  },
+  {
+    "id": 90,
+    "tema": "Graça",
+    "livro": "Tito",
+    "capitulo": 2,
+    "versiculos": "11",
+    "tags": ["graça", "salvação", "Deus"]
+  },
+  {
+    "id": 91,
+    "tema": "Salvação",
+    "livro": "João",
+    "capitulo": 1,
+    "versiculos": "12",
+    "tags": ["salvação", "filhos de Deus", "fé"]
+  },
+  {
+    "id": 92,
+    "tema": "Obediência",
+    "livro": "João",
+    "capitulo": 15,
+    "versiculos": "10",
+    "tags": ["obediência", "amor", "Jesus"]
+  },
+  {
+    "id": 93,
+    "tema": "Justiça",
+    "livro": "Amós",
+    "capitulo": 5,
+    "versiculos": "24",
+    "tags": ["justiça", "retidão", "Deus"]
+  },
+  {
+    "id": 94,
+    "tema": "Gratidão",
+    "livro": "Salmos",
+    "capitulo": 107,
+    "versiculos": "1",
+    "tags": ["gratidão", "bondade", "misericórdia"]
+  },
+  {
+    "id": 95,
+    "tema": "Louvor",
+    "livro": "Hebreus",
+    "capitulo": 13,
+    "versiculos": "15",
+    "tags": ["louvor", "adoração", "gratidão"]
+  },
+  {
+    "id": 96,
+    "tema": "Família",
+    "livro": "Josué",
+    "capitulo": 24,
+    "versiculos": "15",
+    "tags": ["família", "decisão", "serviço"]
+  },
+  {
+    "id": 97,
+    "tema": "Evangelização",
+    "livro": "Romanos",
+    "capitulo": 1,
+    "versiculos": "16",
+    "tags": ["evangelho", "salvação", "poder de Deus"]
+  },
+  {
+    "id": 98,
+    "tema": "Vida Cristã",
+    "livro": "Mateus",
+    "capitulo": 6,
+    "versiculos": "33",
+    "tags": ["prioridades", "Reino de Deus", "fé"]
+  },
+  {
+    "id": 99,
+    "tema": "Fidelidade",
+    "livro": "Apocalipse",
+    "capitulo": 2,
+    "versiculos": "10",
+    "tags": ["fidelidade", "perseverança", "vida eterna"]
+  },
+  {
+    "id": 100,
+    "tema": "Esperança",
+    "livro": "1 Pedro",
+    "capitulo": 5,
+    "versiculos": "7",
+    "tags": ["esperança", "ansiedade", "cuidado de Deus"]
+  },{
+    "id": 101,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 118,
+    "versiculos": "8",
+    "tags": ["confiança", "Deus", "segurança"]
+  },
+  {
+    "id": 102,
+    "tema": "Esperança",
+    "livro": "Isaías",
+    "capitulo": 43,
+    "versiculos": "2",
+    "tags": ["esperança", "proteção", "presença de Deus"]
+  },
+  {
+    "id": 103,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 10,
+    "versiculos": "12",
+    "tags": ["amor", "perdão", "sabedoria"]
+  },
+  {
+    "id": 104,
+    "tema": "Amor",
+    "livro": "João",
+    "capitulo": 13,
+    "versiculos": "35",
+    "tags": ["amor", "discipulado", "testemunho"]
+  },
+  {
+    "id": 105,
+    "tema": "Vida Cristã",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "12",
+    "tags": ["oração", "esperança", "perseverança"]
+  },
+  {
+    "id": 106,
+    "tema": "Perseverança",
+    "livro": "2 Tessalonicenses",
+    "capitulo": 3,
+    "versiculos": "13",
+    "tags": ["perseverança", "bem", "ânimo"]
+  },
+  {
+    "id": 107,
+    "tema": "Coragem",
+    "livro": "Salmos",
+    "capitulo": 31,
+    "versiculos": "24",
+    "tags": ["coragem", "esperança", "força"]
+  },
+  {
+    "id": 108,
+    "tema": "Palavra de Deus",
+    "livro": "Salmos",
+    "capitulo": 19,
+    "versiculos": "7",
+    "tags": ["palavra", "lei", "sabedoria"]
+  },
+  {
+    "id": 109,
+    "tema": "Fé",
+    "livro": "Habacuque",
+    "capitulo": 2,
+    "versiculos": "4",
+    "tags": ["fé", "justiça", "vida"]
+  },
+  {
+    "id": 110,
+    "tema": "Graça",
+    "livro": "Romanos",
+    "capitulo": 5,
+    "versiculos": "8",
+    "tags": ["graça", "amor", "Cristo"]
+  },
+  {
+    "id": 111,
+    "tema": "Salvação",
+    "livro": "2 Coríntios",
+    "capitulo": 5,
+    "versiculos": "17",
+    "tags": ["salvação", "nova vida", "Cristo"]
+  },
+  {
+    "id": 112,
+    "tema": "Espírito Santo",
+    "livro": "Atos",
+    "capitulo": 1,
+    "versiculos": "8",
+    "tags": ["Espírito Santo", "poder", "missões"]
+  },
+  {
+    "id": 113,
+    "tema": "Evangelização",
+    "livro": "Marcos",
+    "capitulo": 16,
+    "versiculos": "15",
+    "tags": ["evangelização", "missões", "evangelho"]
+  },
+  {
+    "id": 114,
+    "tema": "Serviço",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "11",
+    "tags": ["serviço", "zelo", "Deus"]
+  },
+  {
+    "id": 115,
+    "tema": "Família",
+    "livro": "Colossenses",
+    "capitulo": 3,
+    "versiculos": "21",
+    "tags": ["família", "pais", "filhos"]
+  },
+  {
+    "id": 116,
+    "tema": "Obediência",
+    "livro": "1 Samuel",
+    "capitulo": 15,
+    "versiculos": "22",
+    "tags": ["obediência", "adoração", "Deus"]
+  },
+  {
+    "id": 117,
+    "tema": "Humildade",
+    "livro": "Mateus",
+    "capitulo": 23,
+    "versiculos": "12",
+    "tags": ["humildade", "exaltação", "Jesus"]
+  },
+  {
+    "id": 118,
+    "tema": "Justiça",
+    "livro": "Isaías",
+    "capitulo": 1,
+    "versiculos": "17",
+    "tags": ["justiça", "órfãos", "necessitados"]
+  },
+  {
+    "id": 119,
+    "tema": "Gratidão",
+    "livro": "Salmos",
+    "capitulo": 118,
+    "versiculos": "24",
+    "tags": ["gratidão", "alegria", "louvor"]
+  },
+  {
+    "id": 120,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 95,
+    "versiculos": "1",
+    "tags": ["louvor", "adoração", "alegria"]
+  },
+  {
+    "id": 121,
+    "tema": "Misericórdia",
+    "livro": "Salmos",
+    "capitulo": 103,
+    "versiculos": "8",
+    "tags": ["misericórdia", "amor", "Deus"]
+  },
+  {
+    "id": 122,
+    "tema": "Paz",
+    "livro": "Isaías",
+    "capitulo": 26,
+    "versiculos": "12",
+    "tags": ["paz", "Deus", "confiança"]
+  },
+  {
+    "id": 123,
+    "tema": "Fidelidade",
+    "livro": "Salmos",
+    "capitulo": 36,
+    "versiculos": "5",
+    "tags": ["fidelidade", "amor", "Deus"]
+  },
+  {
+    "id": 124,
+    "tema": "Vida Cristã",
+    "livro": "Filipenses",
+    "capitulo": 2,
+    "versiculos": "14",
+    "tags": ["vida cristã", "testemunho", "obediência"]
+  },
+  {
+    "id": 125,
+    "tema": "Esperança",
+    "livro": "Hebreus",
+    "capitulo": 6,
+    "versiculos": "19",
+    "tags": ["esperança", "âncora", "fé"]
+  },{
+    "id": 126,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 62,
+    "versiculos": "8",
+    "tags": ["confiança", "oração", "refúgio"]
+  },
+  {
+    "id": 127,
+    "tema": "Esperança",
+    "livro": "Salmos",
+    "capitulo": 121,
+    "versiculos": "1-2",
+    "tags": ["esperança", "socorro", "Deus"]
+  },
+  {
+    "id": 128,
+    "tema": "Coragem",
+    "livro": "Isaías",
+    "capitulo": 35,
+    "versiculos": "4",
+    "tags": ["coragem", "esperança", "salvação"]
+  },
+  {
+    "id": 129,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 13,
+    "versiculos": "20",
+    "tags": ["sabedoria", "amizade", "conselho"]
+  },
+  {
+    "id": 130,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 16,
+    "versiculos": "9",
+    "tags": ["sabedoria", "direção", "Deus"]
+  },
+  {
+    "id": 131,
+    "tema": "Vida Cristã",
+    "livro": "Mateus",
+    "capitulo": 5,
+    "versiculos": "14",
+    "tags": ["vida cristã", "luz", "testemunho"]
+  },
+  {
+    "id": 132,
+    "tema": "Amor",
+    "livro": "1 Pedro",
+    "capitulo": 4,
+    "versiculos": "8",
+    "tags": ["amor", "perdão", "relacionamentos"]
+  },
+  {
+    "id": 133,
+    "tema": "Perdão",
+    "livro": "Lucas",
+    "capitulo": 6,
+    "versiculos": "37",
+    "tags": ["perdão", "misericórdia", "amor"]
+  },
+  {
+    "id": 134,
+    "tema": "Serviço",
+    "livro": "Mateus",
+    "capitulo": 20,
+    "versiculos": "26",
+    "tags": ["serviço", "liderança", "humildade"]
+  },
+  {
+    "id": 135,
+    "tema": "Humildade",
+    "livro": "Provérbios",
+    "capitulo": 18,
+    "versiculos": "12",
+    "tags": ["humildade", "honra", "sabedoria"]
+  },
+  {
+    "id": 136,
+    "tema": "Obediência",
+    "livro": "Tiago",
+    "capitulo": 1,
+    "versiculos": "22",
+    "tags": ["obediência", "palavra", "prática"]
+  },
+  {
+    "id": 137,
+    "tema": "Palavra de Deus",
+    "livro": "Isaías",
+    "capitulo": 55,
+    "versiculos": "11",
+    "tags": ["palavra", "promessa", "Deus"]
+  },
+  {
+    "id": 138,
+    "tema": "Fé",
+    "livro": "Mateus",
+    "capitulo": 17,
+    "versiculos": "20",
+    "tags": ["fé", "milagres", "confiança"]
+  },
+  {
+    "id": 139,
+    "tema": "Perseverança",
+    "livro": "Gálatas",
+    "capitulo": 6,
+    "versiculos": "10",
+    "tags": ["perseverança", "bondade", "amor"]
+  },
+  {
+    "id": 140,
+    "tema": "Espírito Santo",
+    "livro": "Romanos",
+    "capitulo": 8,
+    "versiculos": "26",
+    "tags": ["Espírito Santo", "oração", "auxílio"]
+  },
+  {
+    "id": 141,
+    "tema": "Graça",
+    "livro": "Hebreus",
+    "capitulo": 4,
+    "versiculos": "16",
+    "tags": ["graça", "oração", "misericórdia"]
+  },
+  {
+    "id": 142,
+    "tema": "Salvação",
+    "livro": "Atos",
+    "capitulo": 16,
+    "versiculos": "31",
+    "tags": ["salvação", "fé", "Jesus"]
+  },
+  {
+    "id": 143,
+    "tema": "Evangelização",
+    "livro": "1 Pedro",
+    "capitulo": 3,
+    "versiculos": "15",
+    "tags": ["evangelização", "testemunho", "esperança"]
+  },
+  {
+    "id": 144,
+    "tema": "Família",
+    "livro": "Salmos",
+    "capitulo": 127,
+    "versiculos": "3",
+    "tags": ["família", "filhos", "bênção"]
+  },
+  {
+    "id": 145,
+    "tema": "Justiça",
+    "livro": "Provérbios",
+    "capitulo": 31,
+    "versiculos": "8-9",
+    "tags": ["justiça", "necessitados", "compaixão"]
+  },
+  {
+    "id": 146,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 96,
+    "versiculos": "2",
+    "tags": ["louvor", "adoração", "salvação"]
+  },
+  {
+    "id": 147,
+    "tema": "Gratidão",
+    "livro": "Salmos",
+    "capitulo": 136,
+    "versiculos": "1",
+    "tags": ["gratidão", "misericórdia", "louvor"]
+  },
+  {
+    "id": 148,
+    "tema": "Misericórdia",
+    "livro": "Efésios",
+    "capitulo": 2,
+    "versiculos": "4-5",
+    "tags": ["misericórdia", "graça", "salvação"]
+  },
+  {
+    "id": 149,
+    "tema": "Paz",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "18",
+    "tags": ["paz", "relacionamentos", "vida cristã"]
+  },
+  {
+    "id": 150,
+    "tema": "Fidelidade",
+    "livro": "Hebreus",
+    "capitulo": 10,
+    "versiculos": "23",
+    "tags": ["fidelidade", "promessas", "esperança"]
+  },{
+    "id": 151,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 91,
+    "versiculos": "1-2",
+    "tags": ["confiança", "proteção", "refúgio"]
+  },
+  {
+    "id": 152,
+    "tema": "Esperança",
+    "livro": "Joel",
+    "capitulo": 2,
+    "versiculos": "25",
+    "tags": ["esperança", "restauração", "promessa"]
+  },
+  {
+    "id": 153,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 15,
+    "versiculos": "33",
+    "tags": ["sabedoria", "humildade", "honra"]
+  },
+  {
+    "id": 154,
+    "tema": "Coragem",
+    "livro": "Deuteronômio",
+    "capitulo": 20,
+    "versiculos": "4",
+    "tags": ["coragem", "vitória", "Deus"]
+  },
+  {
+    "id": 155,
+    "tema": "Amor",
+    "livro": "Efésios",
+    "capitulo": 5,
+    "versiculos": "2",
+    "tags": ["amor", "Cristo", "sacrifício"]
+  },
+  {
+    "id": 156,
+    "tema": "Vida Cristã",
+    "livro": "Filipenses",
+    "capitulo": 4,
+    "versiculos": "8",
+    "tags": ["vida cristã", "pensamentos", "virtudes"]
+  },
+  {
+    "id": 157,
+    "tema": "Perdão",
+    "livro": "Mateus",
+    "capitulo": 18,
+    "versiculos": "21-22",
+    "tags": ["perdão", "misericórdia", "amor"]
+  },
+  {
+    "id": 158,
+    "tema": "Serviço",
+    "livro": "Hebreus",
+    "capitulo": 13,
+    "versiculos": "16",
+    "tags": ["serviço", "generosidade", "boas obras"]
+  },
+  {
+    "id": 159,
+    "tema": "Humildade",
+    "livro": "1 Pedro",
+    "capitulo": 5,
+    "versiculos": "5",
+    "tags": ["humildade", "graça", "Deus"]
+  },
+  {
+    "id": 160,
+    "tema": "Obediência",
+    "livro": "Deuteronômio",
+    "capitulo": 5,
+    "versiculos": "33",
+    "tags": ["obediência", "vida", "bênção"]
+  },
+  {
+    "id": 161,
+    "tema": "Palavra de Deus",
+    "livro": "Josué",
+    "capitulo": 23,
+    "versiculos": "14",
+    "tags": ["palavra", "promessas", "fidelidade"]
+  },
+  {
+    "id": 162,
+    "tema": "Fé",
+    "livro": "Lucas",
+    "capitulo": 1,
+    "versiculos": "37",
+    "tags": ["fé", "milagre", "Deus"]
+  },
+  {
+    "id": 163,
+    "tema": "Perseverança",
+    "livro": "Apocalipse",
+    "capitulo": 3,
+    "versiculos": "11",
+    "tags": ["perseverança", "fidelidade", "esperança"]
+  },
+  {
+    "id": 164,
+    "tema": "Espírito Santo",
+    "livro": "2 Coríntios",
+    "capitulo": 3,
+    "versiculos": "17",
+    "tags": ["Espírito Santo", "liberdade", "vida cristã"]
+  },
+  {
+    "id": 165,
+    "tema": "Graça",
+    "livro": "Tiago",
+    "capitulo": 4,
+    "versiculos": "6",
+    "tags": ["graça", "humildade", "Deus"]
+  },
+  {
+    "id": 166,
+    "tema": "Salvação",
+    "livro": "João",
+    "capitulo": 5,
+    "versiculos": "24",
+    "tags": ["salvação", "vida eterna", "Jesus"]
+  },
+  {
+    "id": 167,
+    "tema": "Evangelização",
+    "livro": "Isaías",
+    "capitulo": 52,
+    "versiculos": "7",
+    "tags": ["evangelização", "boas novas", "paz"]
+  },
+  {
+    "id": 168,
+    "tema": "Família",
+    "livro": "Provérbios",
+    "capitulo": 17,
+    "versiculos": "17",
+    "tags": ["família", "amizade", "amor"]
+  },
+  {
+    "id": 169,
+    "tema": "Justiça",
+    "livro": "Zacarias",
+    "capitulo": 7,
+    "versiculos": "9",
+    "tags": ["justiça", "misericórdia", "verdade"]
+  },
+  {
+    "id": 170,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 34,
+    "versiculos": "1",
+    "tags": ["louvor", "adoração", "gratidão"]
+  },
+  {
+    "id": 171,
+    "tema": "Gratidão",
+    "livro": "Salmos",
+    "capitulo": 9,
+    "versiculos": "1",
+    "tags": ["gratidão", "louvor", "coração"]
+  },
+  {
+    "id": 172,
+    "tema": "Misericórdia",
+    "livro": "Oséias",
+    "capitulo": 6,
+    "versiculos": "6",
+    "tags": ["misericórdia", "amor", "obediência"]
+  },
+  {
+    "id": 173,
+    "tema": "Paz",
+    "livro": "João",
+    "capitulo": 16,
+    "versiculos": "33",
+    "tags": ["paz", "Jesus", "vitória"]
+  },
+  {
+    "id": 174,
+    "tema": "Fidelidade",
+    "livro": "Números",
+    "capitulo": 23,
+    "versiculos": "19",
+    "tags": ["fidelidade", "promessas", "Deus"]
+  },
+  {
+    "id": 175,
+    "tema": "Vida Cristã",
+    "livro": "1 Coríntios",
+    "capitulo": 10,
+    "versiculos": "31",
+    "tags": ["vida cristã", "glória de Deus", "testemunho"]
+  },{
+    "id": 176,
+    "tema": "Confiança",
+    "livro": "Isaías",
+    "capitulo": 12,
+    "versiculos": "2",
+    "tags": ["confiança", "salvação", "força"]
+  },
+  {
+    "id": 177,
+    "tema": "Esperança",
+    "livro": "Salmos",
+    "capitulo": 130,
+    "versiculos": "5",
+    "tags": ["esperança", "palavra", "confiança"]
+  },
+  {
+    "id": 178,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 19,
+    "versiculos": "21",
+    "tags": ["sabedoria", "propósito", "vontade de Deus"]
+  },
+  {
+    "id": 179,
+    "tema": "Coragem",
+    "livro": "Salmos",
+    "capitulo": 112,
+    "versiculos": "7",
+    "tags": ["coragem", "confiança", "boas notícias"]
+  },
+  {
+    "id": 180,
+    "tema": "Amor",
+    "livro": "Romanos",
+    "capitulo": 13,
+    "versiculos": "10",
+    "tags": ["amor", "próximo", "lei"]
+  },
+  {
+    "id": 181,
+    "tema": "Vida Cristã",
+    "livro": "Efésios",
+    "capitulo": 5,
+    "versiculos": "15-16",
+    "tags": ["vida cristã", "sabedoria", "tempo"]
+  },
+  {
+    "id": 182,
+    "tema": "Perdão",
+    "livro": "Marcos",
+    "capitulo": 11,
+    "versiculos": "25",
+    "tags": ["perdão", "oração", "relacionamentos"]
+  },
+  {
+    "id": 183,
+    "tema": "Serviço",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "13",
+    "tags": ["serviço", "hospitalidade", "amor"]
+  },
+  {
+    "id": 184,
+    "tema": "Humildade",
+    "livro": "Miqueias",
+    "capitulo": 6,
+    "versiculos": "8",
+    "tags": ["humildade", "justiça", "misericórdia"]
+  },
+  {
+    "id": 185,
+    "tema": "Obediência",
+    "livro": "João",
+    "capitulo": 13,
+    "versiculos": "17",
+    "tags": ["obediência", "prática", "felicidade"]
+  },
+  {
+    "id": 186,
+    "tema": "Palavra de Deus",
+    "livro": "Salmos",
+    "capitulo": 1,
+    "versiculos": "2-3",
+    "tags": ["palavra", "meditação", "fruto"]
+  },
+  {
+    "id": 187,
+    "tema": "Fé",
+    "livro": "Efésios",
+    "capitulo": 3,
+    "versiculos": "20",
+    "tags": ["fé", "poder", "Deus"]
+  },
+  {
+    "id": 188,
+    "tema": "Perseverança",
+    "livro": "Lucas",
+    "capitulo": 18,
+    "versiculos": "1",
+    "tags": ["oração", "perseverança", "fé"]
+  },
+  {
+    "id": 189,
+    "tema": "Espírito Santo",
+    "livro": "Efésios",
+    "capitulo": 5,
+    "versiculos": "18",
+    "tags": ["Espírito Santo", "plenitude", "vida cristã"]
+  },
+  {
+    "id": 190,
+    "tema": "Graça",
+    "livro": "1 Pedro",
+    "capitulo": 5,
+    "versiculos": "10",
+    "tags": ["graça", "restauração", "fortalecimento"]
+  },
+  {
+    "id": 191,
+    "tema": "Salvação",
+    "livro": "Romanos",
+    "capitulo": 6,
+    "versiculos": "23",
+    "tags": ["salvação", "vida eterna", "graça"]
+  },
+  {
+    "id": 192,
+    "tema": "Evangelização",
+    "livro": "Mateus",
+    "capitulo": 5,
+    "versiculos": "13",
+    "tags": ["evangelização", "sal", "influência"]
+  },
+  {
+    "id": 193,
+    "tema": "Família",
+    "livro": "Provérbios",
+    "capitulo": 15,
+    "versiculos": "20",
+    "tags": ["família", "pais", "sabedoria"]
+  },
+  {
+    "id": 194,
+    "tema": "Justiça",
+    "livro": "Provérbios",
+    "capitulo": 14,
+    "versiculos": "31",
+    "tags": ["justiça", "compaixão", "necessitados"]
+  },
+  {
+    "id": 195,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 147,
+    "versiculos": "1",
+    "tags": ["louvor", "adoração", "bondade"]
+  },
+  {
+    "id": 196,
+    "tema": "Gratidão",
+    "livro": "Efésios",
+    "capitulo": 5,
+    "versiculos": "20",
+    "tags": ["gratidão", "adoração", "Deus"]
+  },
+  {
+    "id": 197,
+    "tema": "Misericórdia",
+    "livro": "Salmos",
+    "capitulo": 86,
+    "versiculos": "15",
+    "tags": ["misericórdia", "amor", "compaixão"]
+  },
+  {
+    "id": 198,
+    "tema": "Paz",
+    "livro": "2 Tessalonicenses",
+    "capitulo": 3,
+    "versiculos": "16",
+    "tags": ["paz", "presença de Deus", "consolo"]
+  },
+  {
+    "id": 199,
+    "tema": "Fidelidade",
+    "livro": "Deuteronômio",
+    "capitulo": 7,
+    "versiculos": "9",
+    "tags": ["fidelidade", "aliança", "amor"]
+  },
+  {
+    "id": 200,
+    "tema": "Vida Cristã",
+    "livro": "Tiago",
+    "capitulo": 3,
+    "versiculos": "17",
+    "tags": ["sabedoria", "pureza", "vida cristã"]
+  },{
+    "id": 201,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 16,
+    "versiculos": "8",
+    "tags": ["confiança", "segurança", "presença de Deus"]
+  },
+  {
+    "id": 202,
+    "tema": "Esperança",
+    "livro": "Isaías",
+    "capitulo": 30,
+    "versiculos": "18",
+    "tags": ["esperança", "misericórdia", "esperar em Deus"]
+  },
+  {
+    "id": 203,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 12,
+    "versiculos": "15",
+    "tags": ["sabedoria", "conselho", "prudência"]
+  },
+  {
+    "id": 204,
+    "tema": "Coragem",
+    "livro": "Salmos",
+    "capitulo": 23,
+    "versiculos": "4",
+    "tags": ["coragem", "proteção", "presença de Deus"]
+  },
+  {
+    "id": 205,
+    "tema": "Amor",
+    "livro": "1 João",
+    "capitulo": 3,
+    "versiculos": "18",
+    "tags": ["amor", "ações", "verdade"]
+  },
+  {
+    "id": 206,
+    "tema": "Vida Cristã",
+    "livro": "Colossenses",
+    "capitulo": 3,
+    "versiculos": "12",
+    "tags": ["vida cristã", "compaixão", "bondade"]
+  },
+  {
+    "id": 207,
+    "tema": "Perdão",
+    "livro": "Lucas",
+    "capitulo": 23,
+    "versiculos": "34",
+    "tags": ["perdão", "Jesus", "misericórdia"]
+  },
+  {
+    "id": 208,
+    "tema": "Serviço",
+    "livro": "Gálatas",
+    "capitulo": 6,
+    "versiculos": "2",
+    "tags": ["serviço", "amor", "próximo"]
+  },
+  {
+    "id": 209,
+    "tema": "Humildade",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "3",
+    "tags": ["humildade", "equilíbrio", "fé"]
+  },
+  {
+    "id": 210,
+    "tema": "Obediência",
+    "livro": "Deuteronômio",
+    "capitulo": 10,
+    "versiculos": "12",
+    "tags": ["obediência", "temor", "amor a Deus"]
+  },
+  {
+    "id": 211,
+    "tema": "Palavra de Deus",
+    "livro": "Colossenses",
+    "capitulo": 3,
+    "versiculos": "16",
+    "tags": ["palavra", "ensino", "louvor"]
+  },
+  {
+    "id": 212,
+    "tema": "Fé",
+    "livro": "Tiago",
+    "capitulo": 2,
+    "versiculos": "17",
+    "tags": ["fé", "obras", "vida cristã"]
+  },
+  {
+    "id": 213,
+    "tema": "Perseverança",
+    "livro": "Hebreus",
+    "capitulo": 12,
+    "versiculos": "2",
+    "tags": ["perseverança", "Jesus", "esperança"]
+  },
+  {
+    "id": 214,
+    "tema": "Espírito Santo",
+    "livro": "Gálatas",
+    "capitulo": 5,
+    "versiculos": "25",
+    "tags": ["Espírito Santo", "vida cristã", "obediência"]
+  },
+  {
+    "id": 215,
+    "tema": "Graça",
+    "livro": "2 Timóteo",
+    "capitulo": 1,
+    "versiculos": "9",
+    "tags": ["graça", "chamado", "salvação"]
+  },
+  {
+    "id": 216,
+    "tema": "Salvação",
+    "livro": "1 João",
+    "capitulo": 5,
+    "versiculos": "11-12",
+    "tags": ["salvação", "vida eterna", "Jesus"]
+  },
+  {
+    "id": 217,
+    "tema": "Evangelização",
+    "livro": "Isaías",
+    "capitulo": 6,
+    "versiculos": "8",
+    "tags": ["evangelização", "missão", "chamado"]
+  },
+  {
+    "id": 218,
+    "tema": "Família",
+    "livro": "Provérbios",
+    "capitulo": 1,
+    "versiculos": "8-9",
+    "tags": ["família", "pais", "sabedoria"]
+  },
+  {
+    "id": 219,
+    "tema": "Justiça",
+    "livro": "Provérbios",
+    "capitulo": 3,
+    "versiculos": "27",
+    "tags": ["justiça", "bondade", "próximo"]
+  },
+  {
+    "id": 220,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 145,
+    "versiculos": "3",
+    "tags": ["louvor", "grandeza", "Deus"]
+  },
+  {
+    "id": 221,
+    "tema": "Gratidão",
+    "livro": "Salmos",
+    "capitulo": 92,
+    "versiculos": "1-2",
+    "tags": ["gratidão", "louvor", "adoração"]
+  },
+  {
+    "id": 222,
+    "tema": "Misericórdia",
+    "livro": "Lucas",
+    "capitulo": 6,
+    "versiculos": "36",
+    "tags": ["misericórdia", "compaixão", "amor"]
+  },
+  {
+    "id": 223,
+    "tema": "Paz",
+    "livro": "Salmos",
+    "capitulo": 29,
+    "versiculos": "11",
+    "tags": ["paz", "força", "bênção"]
+  },
+  {
+    "id": 224,
+    "tema": "Fidelidade",
+    "livro": "Salmos",
+    "capitulo": 89,
+    "versiculos": "8",
+    "tags": ["fidelidade", "poder", "Deus"]
+  },
+  {
+    "id": 225,
+    "tema": "Vida Cristã",
+    "livro": "Tito",
+    "capitulo": 2,
+    "versiculos": "7",
+    "tags": ["vida cristã", "exemplo", "integridade"]
+  },{
+    "id": 226,
+    "tema": "Confiança",
+    "livro": "Jó",
+    "capitulo": 19,
+    "versiculos": "25",
+    "tags": ["confiança", "esperança", "Redentor"]
+  },
+  {
+    "id": 227,
+    "tema": "Esperança",
+    "livro": "Sofonias",
+    "capitulo": 3,
+    "versiculos": "17",
+    "tags": ["esperança", "amor", "presença de Deus"]
+  },
+  {
+    "id": 228,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 20,
+    "versiculos": "7",
+    "tags": ["sabedoria", "integridade", "família"]
+  },
+  {
+    "id": 229,
+    "tema": "Coragem",
+    "livro": "Daniel",
+    "capitulo": 11,
+    "versiculos": "32",
+    "tags": ["coragem", "fidelidade", "força"]
+  },
+  {
+    "id": 230,
+    "tema": "Amor",
+    "livro": "Efésios",
+    "capitulo": 4,
+    "versiculos": "2",
+    "tags": ["amor", "paciência", "unidade"]
+  },
+  {
+    "id": 231,
+    "tema": "Vida Cristã",
+    "livro": "Filipenses",
+    "capitulo": 1,
+    "versiculos": "27",
+    "tags": ["vida cristã", "testemunho", "fé"]
+  },
+  {
+    "id": 232,
+    "tema": "Perdão",
+    "livro": "Provérbios",
+    "capitulo": 17,
+    "versiculos": "9",
+    "tags": ["perdão", "amor", "amizade"]
+  },
+  {
+    "id": 233,
+    "tema": "Serviço",
+    "livro": "Mateus",
+    "capitulo": 25,
+    "versiculos": "40",
+    "tags": ["serviço", "compaixão", "Jesus"]
+  },
+  {
+    "id": 234,
+    "tema": "Humildade",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "16",
+    "tags": ["humildade", "unidade", "simplicidade"]
+  },
+  {
+    "id": 235,
+    "tema": "Obediência",
+    "livro": "Salmos",
+    "capitulo": 40,
+    "versiculos": "8",
+    "tags": ["obediência", "vontade de Deus", "palavra"]
+  },
+  {
+    "id": 236,
+    "tema": "Palavra de Deus",
+    "livro": "Provérbios",
+    "capitulo": 30,
+    "versiculos": "5",
+    "tags": ["palavra", "verdade", "proteção"]
+  },
+  {
+    "id": 237,
+    "tema": "Fé",
+    "livro": "Salmos",
+    "capitulo": 37,
+    "versiculos": "3",
+    "tags": ["fé", "confiança", "bondade"]
+  },
+  {
+    "id": 238,
+    "tema": "Perseverança",
+    "livro": "2 Timóteo",
+    "capitulo": 4,
+    "versiculos": "7",
+    "tags": ["perseverança", "fidelidade", "vitória"]
+  },
+  {
+    "id": 239,
+    "tema": "Espírito Santo",
+    "livro": "João",
+    "capitulo": 16,
+    "versiculos": "13",
+    "tags": ["Espírito Santo", "verdade", "direção"]
+  },
+  {
+    "id": 240,
+    "tema": "Graça",
+    "livro": "Romanos",
+    "capitulo": 3,
+    "versiculos": "24",
+    "tags": ["graça", "justificação", "Cristo"]
+  },
+  {
+    "id": 241,
+    "tema": "Salvação",
+    "livro": "Isaías",
+    "capitulo": 53,
+    "versiculos": "5",
+    "tags": ["salvação", "Jesus", "redenção"]
+  },
+  {
+    "id": 242,
+    "tema": "Evangelização",
+    "livro": "1 Coríntios",
+    "capitulo": 9,
+    "versiculos": "22",
+    "tags": ["evangelização", "missões", "amor"]
+  },
+  {
+    "id": 243,
+    "tema": "Família",
+    "livro": "Rute",
+    "capitulo": 1,
+    "versiculos": "16",
+    "tags": ["família", "lealdade", "amor"]
+  },
+  {
+    "id": 244,
+    "tema": "Justiça",
+    "livro": "Isaías",
+    "capitulo": 58,
+    "versiculos": "6",
+    "tags": ["justiça", "compaixão", "liberdade"]
+  },
+  {
+    "id": 245,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 113,
+    "versiculos": "3",
+    "tags": ["louvor", "adoração", "Deus"]
+  },
+  {
+    "id": 246,
+    "tema": "Gratidão",
+    "livro": "Salmos",
+    "capitulo": 103,
+    "versiculos": "2",
+    "tags": ["gratidão", "bênçãos", "memória"]
+  },
+  {
+    "id": 247,
+    "tema": "Misericórdia",
+    "livro": "Salmos",
+    "capitulo": 145,
+    "versiculos": "8",
+    "tags": ["misericórdia", "bondade", "compaixão"]
+  },
+  {
+    "id": 248,
+    "tema": "Paz",
+    "livro": "Provérbios",
+    "capitulo": 12,
+    "versiculos": "20",
+    "tags": ["paz", "conselho", "alegria"]
+  },
+  {
+    "id": 249,
+    "tema": "Fidelidade",
+    "livro": "Lamentações",
+    "capitulo": 3,
+    "versiculos": "23",
+    "tags": ["fidelidade", "misericórdia", "esperança"]
+  },
+  {
+    "id": 250,
+    "tema": "Vida Cristã",
+    "livro": "1 Timóteo",
+    "capitulo": 4,
+    "versiculos": "12",
+    "tags": ["vida cristã", "exemplo", "juventude"]
+  },{
+    "id": 251,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 20,
+    "versiculos": "7",
+    "tags": ["confiança", "Deus", "segurança"]
+  },
+  {
+    "id": 252,
+    "tema": "Esperança",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "9",
+    "tags": ["esperança", "amor", "vida cristã"]
+  },
+  {
+    "id": 253,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 14,
+    "versiculos": "29",
+    "tags": ["sabedoria", "paciência", "domínio próprio"]
+  },
+  {
+    "id": 254,
+    "tema": "Coragem",
+    "livro": "Esdras",
+    "capitulo": 10,
+    "versiculos": "4",
+    "tags": ["coragem", "ação", "força"]
+  },
+  {
+    "id": 255,
+    "tema": "Amor",
+    "livro": "1 João",
+    "capitulo": 4,
+    "versiculos": "7",
+    "tags": ["amor", "Deus", "irmãos"]
+  },
+  {
+    "id": 256,
+    "tema": "Vida Cristã",
+    "livro": "Gálatas",
+    "capitulo": 2,
+    "versiculos": "20",
+    "tags": ["vida cristã", "Cristo", "fé"]
+  },
+  {
+    "id": 257,
+    "tema": "Perdão",
+    "livro": "Mateus",
+    "capitulo": 5,
+    "versiculos": "23-24",
+    "tags": ["perdão", "reconciliação", "adoração"]
+  },
+  {
+    "id": 258,
+    "tema": "Serviço",
+    "livro": "1 Coríntios",
+    "capitulo": 15,
+    "versiculos": "58",
+    "tags": ["serviço", "perseverança", "obra do Senhor"]
+  },
+  {
+    "id": 259,
+    "tema": "Humildade",
+    "livro": "Provérbios",
+    "capitulo": 15,
+    "versiculos": "33",
+    "tags": ["humildade", "sabedoria", "honra"]
+  },
+  {
+    "id": 260,
+    "tema": "Obediência",
+    "livro": "Êxodo",
+    "capitulo": 19,
+    "versiculos": "5",
+    "tags": ["obediência", "aliança", "Deus"]
+  },
+  {
+    "id": 261,
+    "tema": "Palavra de Deus",
+    "livro": "Jeremias",
+    "capitulo": 23,
+    "versiculos": "29",
+    "tags": ["palavra", "verdade", "poder"]
+  },
+  {
+    "id": 262,
+    "tema": "Fé",
+    "livro": "Salmos",
+    "capitulo": 27,
+    "versiculos": "13",
+    "tags": ["fé", "esperança", "bondade de Deus"]
+  },
+  {
+    "id": 263,
+    "tema": "Perseverança",
+    "livro": "Hebreus",
+    "capitulo": 6,
+    "versiculos": "10",
+    "tags": ["perseverança", "serviço", "fidelidade"]
+  },
+  {
+    "id": 264,
+    "tema": "Espírito Santo",
+    "livro": "Atos",
+    "capitulo": 2,
+    "versiculos": "38",
+    "tags": ["Espírito Santo", "arrependimento", "promessa"]
+  },
+  {
+    "id": 265,
+    "tema": "Graça",
+    "livro": "João",
+    "capitulo": 1,
+    "versiculos": "16",
+    "tags": ["graça", "plenitude", "Cristo"]
+  },
+  {
+    "id": 266,
+    "tema": "Salvação",
+    "livro": "Romanos",
+    "capitulo": 5,
+    "versiculos": "1",
+    "tags": ["salvação", "justificação", "paz"]
+  },
+  {
+    "id": 267,
+    "tema": "Evangelização",
+    "livro": "Daniel",
+    "capitulo": 12,
+    "versiculos": "3",
+    "tags": ["evangelização", "sabedoria", "justiça"]
+  },
+  {
+    "id": 268,
+    "tema": "Família",
+    "livro": "Salmos",
+    "capitulo": 128,
+    "versiculos": "1",
+    "tags": ["família", "temor do Senhor", "bênção"]
+  },
+  {
+    "id": 269,
+    "tema": "Justiça",
+    "livro": "Provérbios",
+    "capitulo": 29,
+    "versiculos": "7",
+    "tags": ["justiça", "compaixão", "necessitados"]
+  },
+  {
+    "id": 270,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 146,
+    "versiculos": "2",
+    "tags": ["louvor", "adoração", "vida"]
+  },
+  {
+    "id": 271,
+    "tema": "Gratidão",
+    "livro": "Salmos",
+    "capitulo": 30,
+    "versiculos": "12",
+    "tags": ["gratidão", "louvor", "alegria"]
+  },
+  {
+    "id": 272,
+    "tema": "Misericórdia",
+    "livro": "Tiago",
+    "capitulo": 2,
+    "versiculos": "13",
+    "tags": ["misericórdia", "justiça", "compaixão"]
+  },
+  {
+    "id": 273,
+    "tema": "Paz",
+    "livro": "Filipenses",
+    "capitulo": 4,
+    "versiculos": "9",
+    "tags": ["paz", "vida cristã", "Deus"]
+  },
+  {
+    "id": 274,
+    "tema": "Fidelidade",
+    "livro": "Josué",
+    "capitulo": 21,
+    "versiculos": "45",
+    "tags": ["fidelidade", "promessas", "Deus"]
+  },
+  {
+    "id": 275,
+    "tema": "Vida Cristã",
+    "livro": "2 Pedro",
+    "capitulo": 3,
+    "versiculos": "18",
+    "tags": ["vida cristã", "crescimento", "graça"]
+  },{
+    "id": 276,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 31,
+    "versiculos": "14",
+    "tags": ["confiança", "fé", "Deus"]
+  },
+  {
+    "id": 277,
+    "tema": "Esperança",
+    "livro": "Isaías",
+    "capitulo": 49,
+    "versiculos": "15-16",
+    "tags": ["esperança", "amor", "cuidado de Deus"]
+  },
+  {
+    "id": 278,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 27,
+    "versiculos": "17",
+    "tags": ["sabedoria", "amizade", "crescimento"]
+  },
+  {
+    "id": 279,
+    "tema": "Coragem",
+    "livro": "Neemias",
+    "capitulo": 8,
+    "versiculos": "10",
+    "tags": ["coragem", "alegria", "força"]
+  },
+  {
+    "id": 280,
+    "tema": "Amor",
+    "livro": "1 Pedro",
+    "capitulo": 1,
+    "versiculos": "22",
+    "tags": ["amor", "irmandade", "pureza"]
+  },
+  {
+    "id": 281,
+    "tema": "Vida Cristã",
+    "livro": "Efésios",
+    "capitulo": 4,
+    "versiculos": "1",
+    "tags": ["vida cristã", "vocação", "testemunho"]
+  },
+  {
+    "id": 282,
+    "tema": "Perdão",
+    "livro": "Lucas",
+    "capitulo": 17,
+    "versiculos": "3",
+    "tags": ["perdão", "arrependimento", "amor"]
+  },
+  {
+    "id": 283,
+    "tema": "Serviço",
+    "livro": "Gálatas",
+    "capitulo": 5,
+    "versiculos": "26",
+    "tags": ["serviço", "humildade", "relacionamentos"]
+  },
+  {
+    "id": 284,
+    "tema": "Humildade",
+    "livro": "Filipenses",
+    "capitulo": 2,
+    "versiculos": "5",
+    "tags": ["humildade", "Cristo", "exemplo"]
+  },
+  {
+    "id": 285,
+    "tema": "Obediência",
+    "livro": "Provérbios",
+    "capitulo": 3,
+    "versiculos": "1-2",
+    "tags": ["obediência", "mandamentos", "vida"]
+  },
+  {
+    "id": 286,
+    "tema": "Palavra de Deus",
+    "livro": "Deuteronômio",
+    "capitulo": 6,
+    "versiculos": "6-7",
+    "tags": ["palavra", "ensino", "família"]
+  },
+  {
+    "id": 287,
+    "tema": "Fé",
+    "livro": "Mateus",
+    "capitulo": 21,
+    "versiculos": "22",
+    "tags": ["fé", "oração", "confiança"]
+  },
+  {
+    "id": 288,
+    "tema": "Perseverança",
+    "livro": "Romanos",
+    "capitulo": 8,
+    "versiculos": "25",
+    "tags": ["perseverança", "esperança", "paciência"]
+  },
+  {
+    "id": 289,
+    "tema": "Espírito Santo",
+    "livro": "João",
+    "capitulo": 7,
+    "versiculos": "38-39",
+    "tags": ["Espírito Santo", "água viva", "fé"]
+  },
+  {
+    "id": 290,
+    "tema": "Graça",
+    "livro": "2 Coríntios",
+    "capitulo": 9,
+    "versiculos": "8",
+    "tags": ["graça", "provisão", "generosidade"]
+  },
+  {
+    "id": 291,
+    "tema": "Salvação",
+    "livro": "1 Timóteo",
+    "capitulo": 2,
+    "versiculos": "5",
+    "tags": ["salvação", "Jesus", "mediador"]
+  },
+  {
+    "id": 292,
+    "tema": "Evangelização",
+    "livro": "Isaías",
+    "capitulo": 61,
+    "versiculos": "1",
+    "tags": ["evangelização", "boas novas", "missão"]
+  },
+  {
+    "id": 293,
+    "tema": "Família",
+    "livro": "Provérbios",
+    "capitulo": 23,
+    "versiculos": "24",
+    "tags": ["família", "filhos", "alegria"]
+  },
+  {
+    "id": 294,
+    "tema": "Justiça",
+    "livro": "Salmos",
+    "capitulo": 82,
+    "versiculos": "3",
+    "tags": ["justiça", "órfãos", "necessitados"]
+  },
+  {
+    "id": 295,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 71,
+    "versiculos": "8",
+    "tags": ["louvor", "adoração", "gratidão"]
+  },
+  {
+    "id": 296,
+    "tema": "Gratidão",
+    "livro": "Hebreus",
+    "capitulo": 12,
+    "versiculos": "28",
+    "tags": ["gratidão", "adoração", "reino"]
+  },
+  {
+    "id": 297,
+    "tema": "Misericórdia",
+    "livro": "Salmos",
+    "capitulo": 51,
+    "versiculos": "10",
+    "tags": ["misericórdia", "arrependimento", "coração"]
+  },
+  {
+    "id": 298,
+    "tema": "Paz",
+    "livro": "Isaías",
+    "capitulo": 54,
+    "versiculos": "10",
+    "tags": ["paz", "aliança", "amor"]
+  },
+  {
+    "id": 299,
+    "tema": "Fidelidade",
+    "livro": "Salmos",
+    "capitulo": 33,
+    "versiculos": "4",
+    "tags": ["fidelidade", "verdade", "Deus"]
+  },
+  {
+    "id": 300,
+    "tema": "Vida Cristã",
+    "livro": "Colossenses",
+    "capitulo": 2,
+    "versiculos": "6-7",
+    "tags": ["vida cristã", "fé", "gratidão"]
+  },{
+    "id": 301,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 94,
+    "versiculos": "19",
+    "tags": ["confiança", "consolo", "Deus"]
+  },
+  {
+    "id": 302,
+    "tema": "Esperança",
+    "livro": "Ageu",
+    "capitulo": 2,
+    "versiculos": "9",
+    "tags": ["esperança", "promessa", "paz"]
+  },
+  {
+    "id": 303,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 24,
+    "versiculos": "3-4",
+    "tags": ["sabedoria", "família", "prudência"]
+  },
+  {
+    "id": 304,
+    "tema": "Coragem",
+    "livro": "2 Crônicas",
+    "capitulo": 15,
+    "versiculos": "7",
+    "tags": ["coragem", "perseverança", "recompensa"]
+  },
+  {
+    "id": 305,
+    "tema": "Amor",
+    "livro": "1 Tessalonicenses",
+    "capitulo": 3,
+    "versiculos": "12",
+    "tags": ["amor", "irmãos", "crescimento"]
+  },
+  {
+    "id": 306,
+    "tema": "Vida Cristã",
+    "livro": "Romanos",
+    "capitulo": 14,
+    "versiculos": "19",
+    "tags": ["vida cristã", "paz", "edificação"]
+  },
+  {
+    "id": 307,
+    "tema": "Perdão",
+    "livro": "Provérbios",
+    "capitulo": 28,
+    "versiculos": "13",
+    "tags": ["perdão", "confissão", "misericórdia"]
+  },
+  {
+    "id": 308,
+    "tema": "Serviço",
+    "livro": "Eclesiastes",
+    "capitulo": 9,
+    "versiculos": "10",
+    "tags": ["serviço", "trabalho", "dedicação"]
+  },
+  {
+    "id": 309,
+    "tema": "Humildade",
+    "livro": "Isaías",
+    "capitulo": 66,
+    "versiculos": "2",
+    "tags": ["humildade", "coração", "temor"]
+  },
+  {
+    "id": 310,
+    "tema": "Obediência",
+    "livro": "Salmos",
+    "capitulo": 119,
+    "versiculos": "2",
+    "tags": ["obediência", "palavra", "felicidade"]
+  },
+  {
+    "id": 311,
+    "tema": "Palavra de Deus",
+    "livro": "Provérbios",
+    "capitulo": 6,
+    "versiculos": "23",
+    "tags": ["palavra", "luz", "ensino"]
+  },
+  {
+    "id": 312,
+    "tema": "Fé",
+    "livro": "Salmos",
+    "capitulo": 125,
+    "versiculos": "2",
+    "tags": ["fé", "proteção", "confiança"]
+  },
+  {
+    "id": 313,
+    "tema": "Perseverança",
+    "livro": "Tiago",
+    "capitulo": 5,
+    "versiculos": "11",
+    "tags": ["perseverança", "Jó", "compaixão"]
+  },
+  {
+    "id": 314,
+    "tema": "Espírito Santo",
+    "livro": "Romanos",
+    "capitulo": 15,
+    "versiculos": "16",
+    "tags": ["Espírito Santo", "santificação", "serviço"]
+  },
+  {
+    "id": 315,
+    "tema": "Graça",
+    "livro": "Tito",
+    "capitulo": 3,
+    "versiculos": "5",
+    "tags": ["graça", "salvação", "misericórdia"]
+  },
+  {
+    "id": 316,
+    "tema": "Salvação",
+    "livro": "Hebreus",
+    "capitulo": 7,
+    "versiculos": "25",
+    "tags": ["salvação", "Jesus", "intercessão"]
+  },
+  {
+    "id": 317,
+    "tema": "Evangelização",
+    "livro": "Salmos",
+    "capitulo": 96,
+    "versiculos": "3",
+    "tags": ["evangelização", "nações", "glória"]
+  },
+  {
+    "id": 318,
+    "tema": "Família",
+    "livro": "Josué",
+    "capitulo": 24,
+    "versiculos": "24",
+    "tags": ["família", "aliança", "serviço"]
+  },
+  {
+    "id": 319,
+    "tema": "Justiça",
+    "livro": "Provérbios",
+    "capitulo": 21,
+    "versiculos": "21",
+    "tags": ["justiça", "bondade", "vida"]
+  },
+  {
+    "id": 320,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 66,
+    "versiculos": "1-2",
+    "tags": ["louvor", "adoração", "alegria"]
+  },
+  {
+    "id": 321,
+    "tema": "Gratidão",
+    "livro": "Salmos",
+    "capitulo": 28,
+    "versiculos": "7",
+    "tags": ["gratidão", "confiança", "louvor"]
+  },
+  {
+    "id": 322,
+    "tema": "Misericórdia",
+    "livro": "Isaías",
+    "capitulo": 55,
+    "versiculos": "7",
+    "tags": ["misericórdia", "perdão", "Deus"]
+  },
+  {
+    "id": 323,
+    "tema": "Paz",
+    "livro": "Salmos",
+    "capitulo": 119,
+    "versiculos": "165",
+    "tags": ["paz", "palavra", "obediência"]
+  },
+  {
+    "id": 324,
+    "tema": "Fidelidade",
+    "livro": "1 Reis",
+    "capitulo": 8,
+    "versiculos": "56",
+    "tags": ["fidelidade", "promessas", "Deus"]
+  },
+  {
+    "id": 325,
+    "tema": "Vida Cristã",
+    "livro": "Hebreus",
+    "capitulo": 10,
+    "versiculos": "24",
+    "tags": ["vida cristã", "amor", "boas obras"]
+  },{
+    "id": 326,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 73,
+    "versiculos": "28",
+    "tags": ["confiança", "Deus", "refúgio"]
+  },
+  {
+    "id": 327,
+    "tema": "Esperança",
+    "livro": "Malaquias",
+    "capitulo": 4,
+    "versiculos": "2",
+    "tags": ["esperança", "cura", "justiça"]
+  },
+  {
+    "id": 328,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 28,
+    "versiculos": "26",
+    "tags": ["sabedoria", "prudência", "confiança"]
+  },
+  {
+    "id": 329,
+    "tema": "Coragem",
+    "livro": "1 Samuel",
+    "capitulo": 17,
+    "versiculos": "47",
+    "tags": ["coragem", "fé", "vitória"]
+  },
+  {
+    "id": 330,
+    "tema": "Amor",
+    "livro": "Colossenses",
+    "capitulo": 3,
+    "versiculos": "14",
+    "tags": ["amor", "perfeição", "unidade"]
+  },
+  {
+    "id": 331,
+    "tema": "Vida Cristã",
+    "livro": "1 Pedro",
+    "capitulo": 2,
+    "versiculos": "12",
+    "tags": ["vida cristã", "testemunho", "boas obras"]
+  },
+  {
+    "id": 332,
+    "tema": "Perdão",
+    "livro": "Isaías",
+    "capitulo": 43,
+    "versiculos": "25",
+    "tags": ["perdão", "graça", "misericórdia"]
+  },
+  {
+    "id": 333,
+    "tema": "Serviço",
+    "livro": "Romanos",
+    "capitulo": 12,
+    "versiculos": "1",
+    "tags": ["serviço", "adoração", "consagração"]
+  },
+  {
+    "id": 334,
+    "tema": "Humildade",
+    "livro": "Lucas",
+    "capitulo": 14,
+    "versiculos": "11",
+    "tags": ["humildade", "honra", "Jesus"]
+  },
+  {
+    "id": 335,
+    "tema": "Obediência",
+    "livro": "Eclesiastes",
+    "capitulo": 12,
+    "versiculos": "13",
+    "tags": ["obediência", "temor", "Deus"]
+  },
+  {
+    "id": 336,
+    "tema": "Palavra de Deus",
+    "livro": "Salmos",
+    "capitulo": 19,
+    "versiculos": "8",
+    "tags": ["palavra", "alegria", "verdade"]
+  },
+  {
+    "id": 337,
+    "tema": "Fé",
+    "livro": "Marcos",
+    "capitulo": 11,
+    "versiculos": "24",
+    "tags": ["fé", "oração", "confiança"]
+  },
+  {
+    "id": 338,
+    "tema": "Perseverança",
+    "livro": "Gálatas",
+    "capitulo": 5,
+    "versiculos": "9",
+    "tags": ["perseverança", "firmeza", "vida cristã"]
+  },
+  {
+    "id": 339,
+    "tema": "Espírito Santo",
+    "livro": "João",
+    "capitulo": 20,
+    "versiculos": "22",
+    "tags": ["Espírito Santo", "Jesus", "discípulos"]
+  },
+  {
+    "id": 340,
+    "tema": "Graça",
+    "livro": "Efésios",
+    "capitulo": 1,
+    "versiculos": "7",
+    "tags": ["graça", "redenção", "perdão"]
+  },
+  {
+    "id": 341,
+    "tema": "Salvação",
+    "livro": "João",
+    "capitulo": 10,
+    "versiculos": "9",
+    "tags": ["salvação", "Jesus", "vida"]
+  },
+  {
+    "id": 342,
+    "tema": "Evangelização",
+    "livro": "Mateus",
+    "capitulo": 9,
+    "versiculos": "37-38",
+    "tags": ["evangelização", "colheita", "oração"]
+  },
+  {
+    "id": 343,
+    "tema": "Família",
+    "livro": "Provérbios",
+    "capitulo": 17,
+    "versiculos": "6",
+    "tags": ["família", "honra", "gerações"]
+  },
+  {
+    "id": 344,
+    "tema": "Justiça",
+    "livro": "Salmos",
+    "capitulo": 106,
+    "versiculos": "3",
+    "tags": ["justiça", "retidão", "obediência"]
+  },
+  {
+    "id": 345,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 103,
+    "versiculos": "1",
+    "tags": ["louvor", "adoração", "alma"]
+  },
+  {
+    "id": 346,
+    "tema": "Gratidão",
+    "livro": "Salmos",
+    "capitulo": 116,
+    "versiculos": "12",
+    "tags": ["gratidão", "bênçãos", "Deus"]
+  },
+  {
+    "id": 347,
+    "tema": "Misericórdia",
+    "livro": "Miqueias",
+    "capitulo": 7,
+    "versiculos": "18",
+    "tags": ["misericórdia", "perdão", "amor"]
+  },
+  {
+    "id": 348,
+    "tema": "Paz",
+    "livro": "João",
+    "capitulo": 20,
+    "versiculos": "21",
+    "tags": ["paz", "Jesus", "missão"]
+  },
+  {
+    "id": 349,
+    "tema": "Fidelidade",
+    "livro": "Salmos",
+    "capitulo": 100,
+    "versiculos": "5",
+    "tags": ["fidelidade", "amor", "bondade"]
+  },
+  {
+    "id": 350,
+    "tema": "Vida Cristã",
+    "livro": "1 João",
+    "capitulo": 2,
+    "versiculos": "6",
+    "tags": ["vida cristã", "Jesus", "exemplo"]
+  },{
+    "id": 351,
+    "tema": "Confiança",
+    "livro": "Salmos",
+    "capitulo": 18,
+    "versiculos": "2",
+    "tags": ["confiança", "proteção", "refúgio"]
+  },
+  {
+    "id": 352,
+    "tema": "Esperança",
+    "livro": "Romanos",
+    "capitulo": 5,
+    "versiculos": "5",
+    "tags": ["esperança", "amor", "Espírito Santo"]
+  },
+  {
+    "id": 353,
+    "tema": "Sabedoria",
+    "livro": "Provérbios",
+    "capitulo": 2,
+    "versiculos": "6",
+    "tags": ["sabedoria", "conhecimento", "Deus"]
+  },
+  {
+    "id": 354,
+    "tema": "Coragem",
+    "livro": "1 Coríntios",
+    "capitulo": 16,
+    "versiculos": "13",
+    "tags": ["coragem", "fé", "firmeza"]
+  },
+  {
+    "id": 355,
+    "tema": "Amor",
+    "livro": "João",
+    "capitulo": 15,
+    "versiculos": "13",
+    "tags": ["amor", "Jesus", "sacrifício"]
+  },
+  {
+    "id": 356,
+    "tema": "Vida Cristã",
+    "livro": "Mateus",
+    "capitulo": 5,
+    "versiculos": "8",
+    "tags": ["vida cristã", "pureza", "bem-aventurança"]
+  },
+  {
+    "id": 357,
+    "tema": "Serviço",
+    "livro": "1 Pedro",
+    "capitulo": 4,
+    "versiculos": "11",
+    "tags": ["serviço", "dons", "glória de Deus"]
+  },
+  {
+    "id": 358,
+    "tema": "Humildade",
+    "livro": "Tiago",
+    "capitulo": 4,
+    "versiculos": "8",
+    "tags": ["humildade", "arrependimento", "Deus"]
+  },
+  {
+    "id": 359,
+    "tema": "Obediência",
+    "livro": "João",
+    "capitulo": 8,
+    "versiculos": "31",
+    "tags": ["obediência", "discipulado", "palavra"]
+  },
+  {
+    "id": 360,
+    "tema": "Palavra de Deus",
+    "livro": "Salmos",
+    "capitulo": 33,
+    "versiculos": "4",
+    "tags": ["palavra", "verdade", "fidelidade"]
+  },
+  {
+    "id": 361,
+    "tema": "Fé",
+    "livro": "Hebreus",
+    "capitulo": 12,
+    "versiculos": "6",
+    "tags": ["fé", "disciplina", "amor de Deus"]
+  },
+  {
+    "id": 362,
+    "tema": "Perseverança",
+    "livro": "Apocalipse",
+    "capitulo": 2,
+    "versiculos": "26",
+    "tags": ["perseverança", "vitória", "fidelidade"]
+  },
+  {
+    "id": 363,
+    "tema": "Graça",
+    "livro": "Hebreus",
+    "capitulo": 13,
+    "versiculos": "9",
+    "tags": ["graça", "fortaleza", "Cristo"]
+  },
+  {
+    "id": 364,
+    "tema": "Salvação",
+    "livro": "1 Pedro",
+    "capitulo": 1,
+    "versiculos": "3",
+    "tags": ["salvação", "esperança", "ressurreição"]
+  },
+  {
+    "id": 365,
+    "tema": "Louvor",
+    "livro": "Salmos",
+    "capitulo": 150,
+    "versiculos": "1",
+    "tags": ["louvor", "adoração", "Deus"]
+  }
+]
