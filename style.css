@@ -130,3 +130,29 @@ button:hover{
     color:#777;
 
 }
+
+#tema{
+
+    display:inline-block;
+
+    background:#2E7D32;
+
+    color:white;
+
+    padding:8px 20px;
+
+    border-radius:999px;
+
+    font-size:1rem;
+
+    font-weight:700;
+
+    letter-spacing:1.2px;
+
+    text-transform:uppercase;
+
+    box-shadow:0 4px 12px rgba(46,125,50,.25);
+
+    margin-bottom:30px;
+
+}

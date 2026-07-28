@@ -2,11 +2,33 @@ let versiculos=[];
 
 let atual=null;
 
+let ultimoId = null;
+
 async function carregarVersiculos(){
 
     const resposta=await fetch("versiculos.json");
 
     versiculos=await resposta.json();
+
+    const params = new URLSearchParams(window.location.search);
+
+    const id = Number(params.get("id"));
+
+    if (id) {
+
+        const encontrado = versiculos.find(v => v.id === id);
+
+        if (encontrado) {
+
+            atual = encontrado;
+
+            buscarTexto();
+
+            return;
+
+        }
+
+    }
 
     mostrarAleatorio();
 
@@ -14,9 +36,23 @@ async function carregarVersiculos(){
 
 async function mostrarAleatorio(){
 
-    const indice=Math.floor(Math.random()*versiculos.length);
+    let escolhido;
 
-    atual=versiculos[indice];
+    do{
+
+        escolhido = versiculos[Math.floor(Math.random()*versiculos.length)];
+
+    }while(escolhido.id === ultimoId);
+
+    ultimoId = escolhido.id;
+
+    atual = escolhido;
+
+    const url = new URL(window.location);
+
+    url.searchParams.set("id", atual.id);
+
+    history.replaceState({}, "", url);
 
     buscarTexto();
 
@@ -29,6 +65,8 @@ async function buscarTexto(){
     texto.innerHTML="";
 
     referencia.innerHTML="";
+
+    tema.innerHTML = atual.tema;
 
     const url=`https://bible-api.com/${encodeURIComponent(atual.livro)}+${atual.capitulo}:${atual.versiculos}?translation=almeida`;
 
@@ -62,9 +100,13 @@ novo.onclick=()=>{
 
 compartilhar.onclick=()=>{
 
-    const textoCompartilhar=`${texto.innerText}
+    const textoCompartilhar =
+    
+    `${texto.innerText}
 
-${referencia.innerText}`;
+    ${referencia.innerText}
+
+    ${window.location.href}`;
 
     if(navigator.share){
 
